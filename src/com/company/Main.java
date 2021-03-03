@@ -1,5 +1,11 @@
 package com.company;
-
+/*
+ @author   Влад
+ @project   1
+ @class  j
+ @version  1.0.0
+ @since 03.03.2021 - 18.28
+*/
 public class Main {
 
     public static void main(String[] args) {
